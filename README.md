@@ -1,1 +1,1 @@
-# tourism_management
+# TourismManagement
